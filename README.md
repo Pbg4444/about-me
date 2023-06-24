@@ -1,7 +1,6 @@
-LEARNING JAVA
+**SUN KNIGHTS ON TOP**
+_https://discord.gg/2DQHmN7RbS_
 
-
-<!---
-Pbg4444/Pbg4444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**2b2t builder**      
+**cpp + java programmer**   
+**btw i use arch**    
